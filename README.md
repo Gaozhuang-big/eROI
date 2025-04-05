@@ -9,7 +9,6 @@ plant-metabolomics by gas chromatography with high resolution mass spectrometry
 
 # Requirements for eROI operation 
 - The required input data format is mzML.
-- Python, version 3.7 or greater
 - Windows 10 or greater
 
 # Usage
