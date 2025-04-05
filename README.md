@@ -2,7 +2,7 @@
 - eROI method systematically converts raw datasets into structured matrices with
 standardized dimensions, effectively preserving m/z reading for subsequent analytical
 phases.
-![Image description]()
+
 # Cite
 - Equidistant regions of interest-multivariate curve resolution for clean spectra from
 plant-metabolomics by gas chromatography with high resolution mass spectrometry
