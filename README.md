@@ -5,11 +5,11 @@ phases.
 
 # Cite
 - Equidistant regions of interest-multivariate curve resolution for clean spectra from
-plant-metabolomics by gas chromatography with high resolution mass spectrometry
+plant-metabolomics by gas chromatography with high resolution mass spectrometry.
 
 # Requirements for eROI operation 
 - The required input data format is mzML.
-- Windows 10 or greater
+- Windows 10 or greater.
 
 # Usage
 - First, download the exe program and double-click to open it. Choose the language according to your preference.
